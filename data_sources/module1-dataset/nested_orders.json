@@ -1,0 +1,18 @@
+[
+  {
+    "order_id": 1,
+    "customer": {
+      "name": "Amit",
+      "city": "Haldwani"
+    },
+    "amount": 1200
+  },
+  {
+    "order_id": 2,
+    "customer": {
+      "name": "Riya",
+      "city": "Delhi"
+    },
+    "amount": 2500
+  }
+]

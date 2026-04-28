@@ -1,0 +1,12 @@
+<orders>
+  <order>
+    <order_id>1</order_id>
+    <customer>Amit</customer>
+    <amount>1200</amount>
+  </order>
+  <order>
+    <order_id>2</order_id>
+    <customer>Riya</customer>
+    <amount>2500</amount>
+  </order>
+</orders>

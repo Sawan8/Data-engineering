@@ -1,0 +1,6 @@
+{
+  "order_id": 1,
+  "customer": "Amit",
+  "amount": 1200,
+  "items": ["Laptop", "Mouse"]
+}

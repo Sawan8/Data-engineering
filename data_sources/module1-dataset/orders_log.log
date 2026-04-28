@@ -1,0 +1,3 @@
+2026-04-01 10:15:22 INFO User login successful user_id=101
+2026-04-01 10:16:05 ERROR Payment failed user_id=102
+2026-04-01 10:18:10 WARNING Slow API response user_id=103
