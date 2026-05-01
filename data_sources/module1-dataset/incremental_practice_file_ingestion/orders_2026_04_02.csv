@@ -1,0 +1,9 @@
+order_id,customer_id,order_date,amount,status
+2001,1004,2026-04-02,978,Completed
+2002,1043,2026-04-02,4152,Pending
+2003,1028,2026-04-02,abc,Cancelled
+2004,1014,2026-04-02,729,Pending
+2005,1015,wrong_date,2592,Cancelled
+2006,1006,2026-04-02,970,Completed
+2007,,2026-04-02,1050,Cancelled
+2008,1026,2026-04-02,224,Pending
